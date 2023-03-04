@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/test-task-follow-card/static/css/main.7acaea2f.css",
+    "main.js": "/test-task-follow-card/static/js/main.21d813e1.js",
+    "index.html": "/test-task-follow-card/index.html",
+    "main.7acaea2f.css.map": "/test-task-follow-card/static/css/main.7acaea2f.css.map",
+    "main.21d813e1.js.map": "/test-task-follow-card/static/js/main.21d813e1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.21d813e1.js"
+  ]
+}
